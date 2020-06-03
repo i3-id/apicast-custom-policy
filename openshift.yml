@@ -27,8 +27,8 @@ objects:
         name: apicast-custom-policy:1.0
     source:
       git:
-        uri: http://bcagitlab.intra.bca.co.id/EAI/3SCALE/Policies/apicast-custom-policy.git
-        ref: 'apicast-custom-policy_20200117_first-deployment'
+        uri: https://github.com/kaoloon/apicast-custom-policy.git
+        ref: 'test'
       type: Git
     strategy:
       type: Source
